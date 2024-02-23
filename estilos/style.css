@@ -59,6 +59,7 @@ main {
 section#sinopse{
     color: white;
     width: 50%;
+    height: 50%;
     padding: 20px;
     background-color: rgba(5, 5, 5, 0.363);
     display: block;
@@ -82,6 +83,7 @@ section#sinopse > p{
 section#personagens{
     color: white;
     width: 50%;
+    height: 50%;
     padding: 20px;
     background-color: rgba(5, 5, 5, 0.363);
     display: block;
